@@ -2,7 +2,7 @@
 // for loop basics 
 
 for( let i = 0; i < 5; i++){ // initial expression, condition, iterate expression
-    console.log("print the string five times", i)
+    console.log("hello world", i)
 } 
 
 // set initial variable => let i = 0 
